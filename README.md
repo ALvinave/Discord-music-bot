@@ -1,2 +1,3 @@
 # Discordbot
-Discord bots
+Discord Music bot by ALvinave
+
